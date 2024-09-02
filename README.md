@@ -1,10 +1,4 @@
-# Fitness Tracker
-
-## Table of Contents
-1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-2. [Schema](#Schema)
+# Fit Tracker
 
 ## Overview
 ### Description
@@ -108,9 +102,6 @@ In workout screen
 * Homescreen
     * --> provide data to the user using a Detail Screen Archetypes once one of the charts get clicked on
     * --> provide the friends feed to the user, might be implemented on another activity
-
-## Wireframes
-<img src="WireFrame.png" width=600>
 
 
 ### [BONUS] Digital Wireframes & Mockups
@@ -247,8 +238,7 @@ In workout screen
     }
 
 ```
-### Current Progress
-![](current.gif)
+
 
 
 #### [OPTIONAL:] Existing API Endpoints
