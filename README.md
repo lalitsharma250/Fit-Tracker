@@ -247,10 +247,6 @@ In workout screen
     }
 
 ```
-     
-### Version 1 Progress
-![](progress.gif)
-
 ### Current Progress
 ![](current.gif)
 
