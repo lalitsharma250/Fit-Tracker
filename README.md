@@ -101,13 +101,6 @@ In workout screen
     * --> provide data to the user using a Detail Screen Archetypes once one of the charts get clicked on
     * --> provide the friends feed to the user, might be implemented on another activity
 
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
-## Schema 
-[This section will be completed in Unit 9]
 ### Models
 [Add table of models]
 ### Networking
